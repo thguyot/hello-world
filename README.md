@@ -8,8 +8,8 @@
 |Colonne 1|Colonne 2|
 |---|---|
 |Valeur 11|Valeur 12|
-|Valeur 21|Valeur 22|
-
+|Valeur 21[^1]|Valeur 22|
+[^1] Note de bas de page
 ### REPARTITION DES RÔLES :
 1. Jean
 2. Pierre
