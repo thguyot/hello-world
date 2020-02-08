@@ -9,3 +9,9 @@
 |---|---|
 |Valeur 11|Valeur 12|
 |Valeur 21|Valeur 22|
+
+### REPARTITION DES RÔLES :
+1. Jean
+2. Pierre
+3. Paul
+4. Jacques
