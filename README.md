@@ -1,6 +1,6 @@
 # hello-world
-Premier essai avec GitHub
+## Premier essai avec GitHub
 
-INFORMATIONS IMPORTANTES SUR LE PROJET :
-- bla bla bla
-- bla bla bla
+## INFORMATIONS IMPORTANTES SUR LE PROJET :
++ bla bla bla
++ bla bla bla
