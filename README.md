@@ -10,6 +10,11 @@
 |Valeur 11|Valeur 12|
 |[Valeur 21](http://www.google.fr)|Valeur 22|
 
+### Citation :
+> Ceci est
+> une citation
+> sur plusieurs lignes
+
 ### REPARTITION DES RÔLES :
 1. Jean
 2. Pierre
